@@ -15,8 +15,6 @@ Our work combines **3D Slicer, MONAI Label, Orthanc PACS, AI-driven segmentation
 - **AR/VR Medical Visualization**  
   Unity-based viewers, real-time segmentation overlays, HoloLens support.
 
-- **AI & Machine Learning**  
-  Medical segmentation models, YOLO pipelines, dataset management tools.
 
 ---
 
